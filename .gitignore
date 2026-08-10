@@ -1,0 +1,22 @@
+# Raw data - too large for git, download separately (see README)
+CMAPSSData/
+data/
+
+# Generated outputs
+eda_plots/
+*.png
+*.csv
+!requirements.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
