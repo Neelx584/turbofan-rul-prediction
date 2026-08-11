@@ -60,6 +60,6 @@ python src/eda.py         # sensor variance, trajectory plots, condition-shift a
 - [x] Data loading + RUL labeling
 - [x] EDA (sensor variance, trajectories, operating condition analysis)
 - [x] Feature engineering (per-condition normalization for FD002/FD004)
-- [ ] XGBoost/RF model
+- [x] XGBoost/RF model
 - [ ] LSTM model
 - [ ] PHM08 scoring function + evaluation
