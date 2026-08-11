@@ -1,22 +1,23 @@
 # Raw data - too large for git, download separately (see README)
 CMAPSSData/
 data/
-
-# Generated outputs
+ 
+# Generated outputs -- these regenerate from scripts, no need to track
 eda_plots/
 *.png
-*.csv
-!requirements.txt
-
+features/
+features/*.csv
+ 
 # Python
 __pycache__/
 *.pyc
 .venv/
 venv/
-
+ 
 # Jupyter
 .ipynb_checkpoints/
-
+ 
 # OS
 .DS_Store
 Thumbs.db
+ 
