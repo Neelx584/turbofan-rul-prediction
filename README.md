@@ -12,9 +12,8 @@ conditions (1 vs 6) and fault modes (1 vs 2).
 
 ## Data
 
-Not included in this repo (too large for git). Download from the official
+Not included in this repo. Download from the official NASA Website
 NASA source:
-
 https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
 
 Unzip into a `CMAPSSData/` folder in the project root:
