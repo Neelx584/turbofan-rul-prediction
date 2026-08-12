@@ -3,3 +3,5 @@ numpy
 matplotlib
 xgboost
 scikit-learn
+torch
+
