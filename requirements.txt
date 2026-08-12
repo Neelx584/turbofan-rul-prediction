@@ -4,4 +4,4 @@ matplotlib
 xgboost
 scikit-learn
 torch
-
+plotly
